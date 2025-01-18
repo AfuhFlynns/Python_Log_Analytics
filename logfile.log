@@ -1,0 +1,4 @@
+Time: 2025-01-18 21:53:02.475753,  Level: ERROR,  Message: Input type not allowed!,  StackTrace: invalid literal for int() with base 10: 'sl', Author: Afuh Flynss
+Time: 2025-01-18 21:53:52.044764,  Level: ERROR,  Message: Input type not allowed!,  StackTrace: could not convert string to float: 'st', Author: Afuh Flynns
+Time: 2025-01-18 21:53:56.471951,  Level: ERROR,  Message: User entered unauthorized value,  StackTrace: division by zero, Author: Afuh Flynns
+Time: 2025-01-18 21:54:05.547563,  Level: ERROR,  Message: File path or file not found,  StackTrace: [Errno 2] No such file or directory: './log.log', Author: Afuh Flynns

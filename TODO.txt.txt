@@ -1,5 +1,4 @@
 Handle:
 1. Value errors
-2. Unauthorized input info exception
-3. Division by zero error
-4. Write/Read errors
+2. Division by zero error
+3. Write/Read errors
