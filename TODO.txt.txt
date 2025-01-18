@@ -1,0 +1,5 @@
+Handle:
+1. Value errors
+2. Unauthorized input info exception
+3. Division by zero error
+4. Write/Read errors
